@@ -16,7 +16,7 @@ A powerful, enterprise-level and feature-rich React Admin Dashboard App built wi
 
 ![App Demo](link-to-demo-gif-or-screenshot)
 
-[Live Demo](https://adminis-hazel.vercel.app/)
+[Live Demo](https://adminis.vercel.app/)
 
 ## Features
 
